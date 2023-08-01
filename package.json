@@ -1,0 +1,14 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "This is a new weather project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simeon A. Mustapha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
